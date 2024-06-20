@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+streamlit
+pandas-datareader
+prophet
